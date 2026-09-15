@@ -605,8 +605,8 @@
   <!-- header -->
   <header class="header-glass">
     <div style="display:flex; align-items:center; gap:1rem;">
-      <button class="mobile-toggle" id="mobileToggle"><i class="fas fa-bars"></i></button>
-      <span class="brand"><i class="fab fa-apple"></i> Nexus</span>
+      <button class="mobile-toggle" id="mobileToggle"><em class="fas fa-bars"></em></button>
+      <span class="brand"><em class="fab fa-apple"></em> Nexus</span>
     </div>
 
     <nav class="nav-desktop" id="mainNav">
